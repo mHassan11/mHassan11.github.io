@@ -8,15 +8,15 @@ redirect_from:
   - about.html
 ---
 
-I am a graduate student in computer science at University of Illinois at Chicago (UIC) working in [BITS Lab](https://bits.lab.uic.edu/). I am interested in (Usable) Security, Privacy, and Social Computing.<br>
+I am a PhDstudent in information science at iSchool, University of Illinois at Urbana-Champaign (UIUC) working with [Prof. Basir](https://ischool.illinois.edu/people/masooda-bashir). I am interested in Security, Privacy, and Social Computing.<br>
 
 
 ### CONTACT INFORMATION
-<em> Graduate Assistant in Computer Science </em> <br>
-<em> Department of Computer Science, UIC</em> <br>
-<em> 851 S. Morgan St., 1336 SEO </em> <br>
-<em> Chicago, IL 60607</em> <br>
-<em> [muhassan@mail.com](mailto:muhassan@mail.com) | [mhassa42@uic.edu](mailto:mhassa42@uic.edu) </em> <br>
+<em> PhD Student in Information Science </em> <br>
+<em> Department of Information Science iSchool, UIUC</em> <br>
+<em> 614 East Daniel St., Fourth Floor </em> <br>
+<em> Champaign, IL 61820</em> <br>
+<em> [muhassan@mail.com](mailto:muhassan@mail.com) | [mhassa42@illinois.edu](mailto:mhassa42@illinois.edu) </em> <br>
 <em> [+1 (773) 744 7604](tel:7737447604) </em> <br>
 
 <!-- <img src="/images/hassan_2021_2.jpeg" width="200"> -->
