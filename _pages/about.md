@@ -8,7 +8,8 @@ redirect_from:
   - about.html
 ---
 
-I am a PhD student in information science at iSchool, University of Illinois at Urbana-Champaign (UIUC) working with [Prof. Basir](https://ischool.illinois.edu/people/masooda-bashir). I am interested in Security, Privacy, and Social Computing.<br>
+I am a PhD student in Information science at iSchool, University of Illinois at Urbana-Champaign (UIUC) working with [Prof. Basir](https://ischool.illinois.edu/people/masooda-bashir). 
+I am broadly interested in Security and Privacy, studying vulnerabilities exploiting users' trust in the web and mobile app ecosystem. My research goal is to enhance users' privacy and security in the digital world. <br>
 
 
 ### CONTACT INFORMATION

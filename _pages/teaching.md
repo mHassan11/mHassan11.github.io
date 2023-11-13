@@ -13,16 +13,18 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 {% include base_path %}
 
+### Graduate Teaching Assistant for Introduction to Computing and Programming. course at UIC (CS 107)
+#### Fall 2021 (Aug 2021 - Dec 2021)
+#### Assisted with course instruction, grading of projects and exams, conducted weekly labs and mock interview assesments, and held weekly office hours (~100 students).
+<br/>
+
 ### Graduate Teaching Assistant for Data Structures course at University of Illinois at Chicago (CS 251)
 #### Spring 2021 (Jan 2021 - May 2021)
 #### [Course Website](https://www.reckingerlab.com/cs251asyncvideos)
 #### Assisted with course instruction and grading, conducting weekly labs and mock interview assesments, and held office hours (~150 students).
 <br/>
 
-### Graduate Teaching Assistant for Introduction to Computing and Programming. course at UIC (CS 107)
-#### Fall 2021 (Aug 2021 - Dec 2021)
-#### Assisted with course instruction, grading of projects and exams, conducted weekly labs and mock interview assesments, and held weekly office hours (~100 students).
-<br/>
+
 
 
 <!-- ### Lecturer for Applied Machine Learning course at UC Berkeley

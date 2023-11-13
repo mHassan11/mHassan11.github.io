@@ -13,13 +13,13 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 {% include base_path %}
 
-### Research Assistant@BITS Lab, University of Illinois at Chicago UIC, Chicago, IL
-#### Jan 2021 - Present
-#### Projects spanning security vulnerabilities in push notification services of Progressive Web Applications <em>PWAs</em>.
+### Research Assistant @ University of Illinois 
+#### Present
+#### Performing security and privacy analysis of mobile and web apps, identifying and mitigating threats such as data theft, privacy leak, and user-tracking. Applying data mining and visualization to online social networks and inferred user behavior patterns.
 <br/>
 
 ### Research Assistant@Technology for People Initiative Lab, Lahore, PAKISTAN
-#### May 2019 - Dec 2020
+#### 2020
 #### Project spanning Systems, Security, and Social Computing.
 <br/>
 
@@ -27,6 +27,18 @@ h2, h3, h4, h5, h6 {margin: 0;}
 #### May 2018 - Aug 2018
 #### Projects in security testing of android applications.
 <br/>
+
+
+### Conference Committees
+#### Nov 2023: ACM SIGCHI Case Studies - PC Member
+#### 2023: NDSS AE PC Member
+<!-- #### April - Nov 2021: [CSAW 2021](https://www.csaw.io/research) Applied Research Competition Co-Chair -->
+<!-- #### April 2021: [WE21 Conference](https://alltogether.swe.org/2020/12/now-open-we21-call-for-participation) Reviewer -->
+#### Undergraduate Research Symposium @ UIUC 2022-23 PC Member
+#### 2023-24: Undergraduate Research Mentor
+#### 2023: UbiComp/ISWC 2023 Posters and Demos PC Member
+
+
 
 <!-- 
 ### Tech Research Intern at Spotify, Boston, MA
