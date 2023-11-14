@@ -13,22 +13,22 @@ h2, h3, h4, h5, h6 {margin: 0;}
 
 {% include base_path %}
 
-#### University of Illinois 
+### University of Illinois 
 Research Assistant - *Present* <br/>
 Performing security and privacy analysis of mobile and web apps, identifying and mitigating threats such as data theft, privacy leak, and user-tracking. Applying data mining and visualization to online social networks and inferred user behavior patterns.
 <br/>
 
-#### ByteDance/TikTok Inc.
+### ByteDance/TikTok Inc.
 Application Security Researcher - *May-August 2022*<br/>
 Improved security and performance of sensitive applications with Intel SGX and Hashicorp Vault in collaboration with Application Security team.
 <br/>
 
-#### Technology for People Initiative Lab, Lahore, PAKISTAN
+### Technology for People Initiative Lab, Lahore, PAKISTAN
 Research Assistant - *2020* <br/>
 Project spanning Systems, Security, and Social Computing.
 <br/>
 
-#### KICS Lab UET, Lahore, PAKISTAN
+### KICS Lab UET, Lahore, PAKISTAN
 Technical Research Intern - *May-Aug 2018*<br/>
 Projects in security testing of android applications.
 <br/>
