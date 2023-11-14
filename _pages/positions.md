@@ -14,7 +14,7 @@ h2, h3, h4, h5, h6 {margin: 0;}
 {% include base_path %}
 
 ###  @ University of Illinois 
-Research Assistant <p style='text-align: right;'>*Present* </p><br/>
+Research Assistant *Present* <br/>
 Performing security and privacy analysis of mobile and web apps, identifying and mitigating threats such as data theft, privacy leak, and user-tracking. Applying data mining and visualization to online social networks and inferred user behavior patterns.
 <br/>
 
