@@ -19,7 +19,7 @@ Performing security and privacy analysis of mobile and web apps, identifying and
 <br/>
 
 ### @Technology for People Initiative Lab, Lahore, PAKISTAN
-Research Assistant *2020* <br/>
+Research Assistant - *2020* <br/>
 Project spanning Systems, Security, and Social Computing.
 <br/>
 
