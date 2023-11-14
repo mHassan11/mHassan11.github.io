@@ -19,7 +19,7 @@ Performing security and privacy analysis of mobile and web apps, identifying and
 <br/>
 
 #### ByteDance/TikTok Inc.
-Application Security Researcher - *May-August 2022*
+Application Security Researcher - *May-August 2022*<br/>
 Improved security and performance of sensitive applications with Intel SGX and Hashicorp Vault in collaboration with Application Security team.
 <br/>
 
@@ -29,7 +29,7 @@ Project spanning Systems, Security, and Social Computing.
 <br/>
 
 #### KICS Lab UET, Lahore, PAKISTAN
-Technical Research Intern - *May-Aug 2018*
+Technical Research Intern - *May-Aug 2018*<br/>
 Projects in security testing of android applications.
 <br/>
 
