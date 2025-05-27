@@ -1,0 +1,13 @@
+title: "Muhammad Hassan"
+description: "Academic CV | Security & Privacy in IoMT"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+include:
+  - files
+  - assets
+sass:
+  style: compressed
